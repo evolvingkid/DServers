@@ -8,7 +8,7 @@ This package will help you to start the dart servers easily.
 
 [Official Dart Dev](https://dart.dev/tutorials/server/get-started)
 
-## Package
+## Example
 
 [GitHub Repo Dservers Example ](https://github.com/rougerepublic23/DServer_examples)
 
